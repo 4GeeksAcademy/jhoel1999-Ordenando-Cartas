@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+.spade {
+  color: black;
+}
+
+.club {
+  color: black;
+}
+.heart {
+  color: red;
+}
+.diamond {
+  color: red;
+}
